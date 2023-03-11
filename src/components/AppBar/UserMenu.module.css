@@ -1,0 +1,15 @@
+.userEmail {
+    margin-top: 0;
+    color: white;
+}
+.userMenu {
+    border: 2px solid white;
+    background-color: rgb(85, 26, 139);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.link:hover {
+    border-color: white;
+    color: white;
+}

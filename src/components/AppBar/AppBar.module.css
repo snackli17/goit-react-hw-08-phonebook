@@ -1,0 +1,36 @@
+.link {
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(85, 26, 139);
+    transition: 250ms ease-in-out;
+}
+
+.link:hover {
+    color: white;
+    text-shadow: 2px 2px 3px rgba(85, 26, 139, 1);
+}
+
+.header {
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.navWrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.title {
+    font-size: 48px;
+    text-decoration: none;
+    transition: 250ms ease-in-out;
+}
+
+.title:hover {
+    color: white;
+    text-shadow: 2px 2px 3px rgba(85, 26, 139, 1);
+}
